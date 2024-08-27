@@ -5,8 +5,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ## About me
-
-- ⭐ Github Star ⭐ 
 - 🎓 Computer Science student at the Private University of Applied Sciences.
 - 💻 I teach C++ programming on my YouTube channel, where I explain concepts from the basics to more advanced topics.
 - 🚀 Creator of [Devsoft](https://devsoft.lat), a platform dedicated to sharing resources and projects for the developer community.
