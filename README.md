@@ -7,9 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
-
-- ⭐ Github Star ⭐ 
+## About Me
 - 🎓 Computer Science student at the Private University of Applied Sciences.
 - 💻 I teach C++ programming on my YouTube channel, where I explain concepts from the basics to more advanced topics.
 - 🚀 Creator of [Devsoft](https://devsoft.lat), a platform dedicated to sharing resources and projects for the developer community.
